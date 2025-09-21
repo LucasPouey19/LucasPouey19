@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**LucasPouey19/LucasPouey19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o Lucas, estudante de ensino médio e entusiasta da programação no Brasil.  
+Gosto de criar projetos que tornam o aprendizado mais fácil e divertido — principalmente usando **gamificação**.  
 
-Here are some ideas to get you started:
+Atualmente, estou desenvolvendo o **AllGames**, uma plataforma gamificada de aprendizado, e o **TipPark**, um sistema de gestão de estacionamento. Trabalho tanto no **frontend** quanto no **backend**, sempre buscando criar soluções úteis e intuitivas.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fora da programação, você pode me encontrar jogando, desenhando, ouvindo música ou jogando futebol.  
+
+---
+
+### Curiosidades:
+- Gosto de unir jogos com educação.  
+- Me sinto motivado ao ajudar outras pessoas a aprender programação.  
+- Meu logo tem um papagaio 3D 🦜.  
