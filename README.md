@@ -12,4 +12,3 @@ Fora da programação, você pode me encontrar jogando, desenhando, ouvindo mús
 ### Curiosidades:
 - Gosto de unir jogos com educação.  
 - Me sinto motivado ao ajudar outras pessoas a aprender programação.  
-- Meu logo tem um papagaio 3D 🦜.  
